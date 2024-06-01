@@ -40,3 +40,4 @@ summary(lmkm2)
 lmkm3 <- latrend(lmkmMethod, nClusters = 3, data = PAP.adh)
 
 lmkm3 <- update(lmkm2, nClusters = 3)
+
